@@ -16,9 +16,9 @@ Hero Randomizer Lab is a simple iOS application built with SwiftUI that allows u
 
 ## Screenshots
 
-<img src="https://github.com/user-attachments/assets/876fb677-5163-43cf-98d5-e95386e4dc5d" width="300">
+<img src="https://github.com/user-attachments/assets/5333dda6-6e71-4aad-a8ab-cbacfd8a363d" width="300">
 
-<img src="https://github.com/user-attachments/assets/3ded2d66-2070-4998-b38f-a51401481433" width="300">
+<img src="https://github.com/user-attachments/assets/96541a68-32c2-4082-bf55-ebee26b19ecd" width="300">
 
 ## Requirements
 
